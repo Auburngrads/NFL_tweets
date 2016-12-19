@@ -1,0 +1,34 @@
+2016-11-24 12:30
+MINvsDET    x
+
+2016-11-24 16:00
+WASvsDAL    x
+
+2016-11-24 20:00
+PITvsIND    x
+
+2016-11-27 13:00
+LAvsNO    x
+TENvsCHI   x
+AZvsATL    x
+NYGvsCLE   x
+SDvsHOU    x
+JAXvsBUF   x
+CINvsBAL
+SFvsMIA
+
+2016-11-27 16:00
+SEAvsTB    x
+NEvsNYJ    x
+CARvsOAK   x
+
+2016-11-27 20:00
+KCvsDEN     x
+
+2016-11-28 20:00
+KCvsDEN
+GBvsPHI
+
+Games of the week
+CARvsOAK
+JAXvsBUF
