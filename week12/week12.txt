@@ -1,34 +1,34 @@
 2016-11-24 12:30
-MINvsDET    x
+MINvsDET    xyz
 
 2016-11-24 16:00
-WASvsDAL    x
+WASvsDAL    xyz
 
 2016-11-24 20:00
-PITvsIND    x
+PITvsIND    xyz
 
 2016-11-27 13:00
-LAvsNO    x
-TENvsCHI   x
-AZvsATL    x
-NYGvsCLE   x
-SDvsHOU    x
-JAXvsBUF   x
-CINvsBAL
-SFvsMIA
+LAvsNO    xyz
+TENvsCHI   xyz
+AZvsATL    xyz
+NYGvsCLE   xyx
+SDvsHOU    xyz
+JAXvsBUF   xyz
+CINvsBAL   xyz
+SFvsMIA    xyz
 
 2016-11-27 16:00
-SEAvsTB    x
-NEvsNYJ    x
-CARvsOAK   x
+SEAvsTB    yz
+NEvsNYJ    xyz
+CARvsOAK   xyz
 
 2016-11-27 20:00
-KCvsDEN     x
+KCvsDEN     xyz
 
 2016-11-28 20:00
-KCvsDEN
-GBvsPHI
+GBvsPHI    
 
 Games of the week
 CARvsOAK
+KCvsDEN?
 JAXvsBUF

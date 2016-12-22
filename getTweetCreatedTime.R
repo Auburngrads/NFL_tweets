@@ -17,7 +17,11 @@ getTimeOfTweets <- function(hashtag, numberToScrape, dateTo, dateFrom, max = NUL
       
 }
 
-startTimeOfTweets <- function(gameName, numberToScrape, dateTo, dateFrom, startTime) {
+startTimeOfTweets <- function(gameName, 
+                              numberToScrape, 
+                              dateTo, 
+                              dateFrom, 
+                              startTime) {
       maxIn <- NULL
       hashtag <- paste('#', gameName, sep = '')
       timeToTest <- as.POSIXct(paste(dateFrom, "23:59:00"),  format="%Y-%m-%d %H:%M:%S")

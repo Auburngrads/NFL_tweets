@@ -2,25 +2,25 @@
 #CLEvsBAL
 
 2016-11-13 13:00
-#HOUvsJAX   xy
-#DENvsNO    xy
+#HOUvsJAX   xyz
+#DENvsNO    xyz
 #LAvsNYJ    xy
-#ATLvsPHI  x
-#KCvsCAR   x
-#CHIvsTB   x
-#MINvsWAS  x
-#GBvsTEN   x
+#ATLvsPHI  xyz
+#KCvsCAR   xyz
+#CHIvsTB   xyz
+#MINvsWAS  xyz
+#GBvsTEN   xyz
 
 2016-11-13 16:00
-#MIAvsSD   x
-#SFvsAZ    x
-#DALvsPIT  x
+#MIAvsSD   xyz
+#SFvsAZ    xyz
+#DALvsPIT  xyz
 
 2016-11-13 20:00
-#SEAvsNE   x
+#SEAvsNE   xyz
 
 2016-11-14 20:00
-#CINvsNYG    x
+#CINvsNYG    xyz
 
 Games of the week (Taken from a review site, not the actual NFL network games)
 #DALvsPIT

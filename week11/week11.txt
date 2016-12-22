@@ -1,28 +1,31 @@
 2016-11-17 20:00
-NOvsCAR   x
+NOvsCAR   xy
 
 2016-11-20 13:00
-AZvsMIN   x
-BUFvsCIN   x
-CHIvsNYG   x
-PITvsCLE   x
-TBvsKC   x
-BALvsDAL
-JAXvsDET   x
-TENvsIND   x
+AZvsMIN   xyz
+BUFvsCIN   xyz
+CHIvsNYG   xyz
+PITvsCLE   xyz
+TBvsKC     xyz
+BALvsDAL   yz
+JAXvsDET   xyz
+TENvsIND   xyz
 
 2016-11-20 16:00
-MIAvsLA   x
-NEvsSF   x
-PHIvsSEA   x
+MIAvsLA   xyz
+NEvsSF    xyz
+PHIvsSEA  xyz
 
 2016-11-20 20:00
-GBvsWAS   x
+GBvsWAS   xyz
 
 2016-11-21 20:00
-HOUvsOAK   x
+HOUvsOAK   xyz
 
 Games of the week
 BALvsDAL
 TENvsIND
 MIAvsLA
+
+boring games
+BUFvsCIN?
