@@ -1,9 +1,9 @@
 2016-12-1 20:00
-DALvsMIN     x
+DALvsMIN     xyz
 
 2016-12-4 13:00
-DETvsNO       x
-LAvsNE       x
+DETvsNO      xyz
+LAvsNE       xyz
 DENvsJAX     x
 HOUvsGB      x
 PHIvsCIN     x

@@ -1,35 +1,40 @@
 2016-12-22 20:00
-NYGvsPHI
+NYGvsPHI    xyz   7
 
 2016-12-24 13:00
-ATLvsCAR
-TBvsNO
-MIAvsBUF
-WASvsCHI
-NYJvsNE
-SDvsCLE
-TENvsJAX
-MINvsGB
+ATLvsCAR    xyz    5
+TBvsNO      xyz
+MIAvsBUF    xyz
+WASvsCHI    xyz
+NYJvsNE     xyz    2
+SDvsCLE     xyz
+TENvsJAX    xyz
+MINvsGB     xyz
 
 2016-12-24 16:00
-INDvsOAK
-SFvsLA
-AZvsSEA
+INDvsOAK    xyz
+SFvsLA      xyz
+AZvsSEA     xyz
 
 2016-12-24 20:00
-CINvsHOU
+CINvsHOU    xyz
 
 2016-12-25 16:00
-BALvsPIT
+BALvsPIT    xyz
 
 2016-12-25 20:00
-DENvsKC
+DENvsKC     xyz
 
 2016-12-26 20:00
-DETvsDAL
+DETvsDAL    xyz
 
 Games of the week
-
+NYGvsPHI    7
+BALvsPIT    9
+MIAvsBUF?
+SFvsLA?
+INDvsOAK?
+TENvsJAX?
 
 Boring games
-
+NYJvsNE

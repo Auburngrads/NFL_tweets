@@ -2,7 +2,11 @@
 ## for a specified date and a certain hastag.
 
 
-getTimeOfTweets <- function(hashtag, numberToScrape, dateTo, dateFrom, max = NULL) {
+getTimeOfTweets <- function(hashtag, 
+                            numberToScrape, 
+                            dateTo, 
+                            dateFrom, 
+                            max = NULL) {
       
       
       tweets <- searchTwitter(hashtag, n=numberToScrape, lang="en", since = dateTo, until = dateFrom, maxID = max)
