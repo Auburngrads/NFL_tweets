@@ -4,28 +4,29 @@ DALvsMIN     xyz
 2016-12-4 13:00
 DETvsNO      xyz
 LAvsNE       xyz
-DENvsJAX     x
-HOUvsGB      x
-PHIvsCIN     x
-KCvsATL      x
-MIAvsBAL     x
-SFvsCHI      x
-BUFvsOAK     x
+DENvsJAX     xyz
+HOUvsGB      xyz
+PHIvsCIN     xyz
+KCvsATL      xyz
+MIAvsBAL     xyz
+SFvsCHI      xyz
+BUFvsOAK     End of game missing
 
 2016-12-4 16:00
-TBvsSD      x
-NYGvsPIT    x
-WASvsAZ     x
+TBvsSD      xyz
+NYGvsPIT    xyz
+WASvsAZ     xyz
 
 2016-12-4 20:00
-CARvsSEA    x
+CARvsSEA    xyz
 
 2016-12-5 20:00
-INDvsNYJ    x
+INDvsNYJ    xyz
 
 Games of the week
 DALvsMIN 4/5
-
+KCvsATL?
+WASvsAZ?
 
 Boring games
 PHIvsCIN   blow-out

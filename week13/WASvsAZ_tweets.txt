@@ -13177,7 +13177,7 @@ Who gets the first touch down today?" "805523270820728832"
 
 #WASvsAZ is about to start!" "805523154558849024"
 "3782" 2016-12-04 21:24:19 2016-12-04 16:24:19 "RT @Redskins: Here we go! #HTTR #WASvsAZ https://t.co/SzSzhCn2LI" "805523150792429568"
-"3783" 2016-12-04 21:24:18 2016-12-04 16:24:18 "RT @Redskins: Here we go! #HTTR #WASvsAZ https://t.co/SzSzhCn2LI" "805523145344094209"
+"3783" w 2016-12-04 16:24:18 "RT @Redskins: Here we go! #HTTR #WASvsAZ https://t.co/SzSzhCn2LI" "805523145344094209"
 "3784" 2016-12-04 21:24:17 2016-12-04 16:24:17 "RT @Redskins: #Redskins call heads and win the opening toss. Defer to the second half. 
 
 #WASvsAZ is about to start!" "805523142961721344"
