@@ -2,27 +2,27 @@
 OAKvsKC     xyz
 
 2016-12-11 13:00
-WASvsPHI    x
-HOUvsIND    x
-CINvsCLE    x
-DENvsTEN    x
-AZvsMIA     x
-CHIvsDET    x
-PITvsBUF    x
-SDvsCAR     x
-MINvsJAX    x
+WASvsPHI    xyz
+HOUvsIND    xyz
+CINvsCLE    xyz
+DENvsTEN    xyz
+AZvsMIA     xyz
+CHIvsDET    xyz
+PITvsBUF    xyz
+SDvsCAR     xyz
+MINvsJAX    xyz
 
 2016-12-11 16:00
-NYJvsSF     x
-ATLvsLA     x
-NOvsTB      x
-SEAvsGB     x
+NYJvsSF     xyz
+ATLvsLA     xyz
+NOvsTB      xyz
+SEAvsGB     xyz
 
 2016-12-11 20:00
-DALvsNYG    x
+DALvsNYG    xyz
 
 2016-12-12 20:00
-BALvsNE
+BALvsNE     xyz
 
 Games of the week
 AZvsMIA
